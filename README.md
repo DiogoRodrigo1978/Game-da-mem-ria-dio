@@ -1,2 +1,2 @@
-# Game-da-mem-ria-dio
+# Game-da-memória-dio
 Jogo da memória
